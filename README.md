@@ -1,0 +1,1 @@
+# Spatiotemporal-Patterns-in-a-General-Networked-Hindmarsh-Rose-Model-code
